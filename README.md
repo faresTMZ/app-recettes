@@ -27,6 +27,7 @@ Elle se basera sur une API REST qui permettra de gérer les recettes. Vous devre
 
 ### Contraintes
 
+- Afficher l'image cuisine.jpg à la racine de ce repo en header de votre site, à l'url racine "/".
 - Utiliser Docker pour déployer votre application
   - Construisez votre image à partir d'un Dockerfile, vous pouvez demander de l'aide si besoin
   - Votre app écoute sur le port 80
